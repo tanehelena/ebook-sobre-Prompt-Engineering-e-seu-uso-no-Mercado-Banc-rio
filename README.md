@@ -39,6 +39,7 @@ Edição do Conteúdo: Retire a seção No Setor Bancário e, crie um capítulo 
 Edição do Conteúdo: inverta o capítulo 3 e o 4 e faça uma conclusão completa, abrangendo também como o uso de prompt engenharia inteligente pode auxiliar no setor bancário
 
 Canva Dream Lab:
+
 Ação	inicial
 Imagem:	um ninja soltando códigos das mãos
 
