@@ -14,7 +14,6 @@ Este Projeto foi desenvolvido com o objetivo de gerar um ebook digital com as fa
 
 💻 Tecnologias utilizadas no projeto:
 
-
  - ChatGPT: geração de conteúdo e auxílio na definição do título 
 
  - Canva Dream Lab: geração de imagem de capa
@@ -23,19 +22,17 @@ Este Projeto foi desenvolvido com o objetivo de gerar um ebook digital com as fa
 
  - Power Point: diagramação
 
+
 🧠 Prompts utilizados:
 
 Bate-papoGPT：
 
-Ação	inicial
+Ação	inicial:
 
 Título: crie um título para um e-book com assunto prompt engenharia, do nicho bancário, com tema ninja, o título deve listar 5 opções de títulos
 
 Conteúdo:	faça um texto para ebook, com foco em Prompt Engineering, falando as principais características e trazendo exemplos de prompts inteligentes para uso pessoal, para estudo e para trabalho.
-Linha 1  
-  
 
-Linha 2
 
 
 Na jornada:
@@ -49,7 +46,7 @@ Edição do Conteúdo: inverta o capítulo 3 e o 4 e faça uma conclusão comple
 
 Canva Dream Lab:
 
-Ação	inicial
+Ação	inicial:
 
 Imagem:	um ninja soltando códigos das mãos
 
