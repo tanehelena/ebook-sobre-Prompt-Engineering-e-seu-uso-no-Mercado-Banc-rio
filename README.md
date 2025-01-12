@@ -32,6 +32,10 @@ Ação	inicial
 Título: crie um título para um e-book com assunto prompt engenharia, do nicho bancário, com tema ninja, o título deve listar 5 opções de títulos
 
 Conteúdo:	faça um texto para ebook, com foco em Prompt Engineering, falando as principais características e trazendo exemplos de prompts inteligentes para uso pessoal, para estudo e para trabalho.
+Linha 1  
+  
+
+Linha 2
 
 
 Na jornada:
