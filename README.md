@@ -28,9 +28,13 @@ Este Projeto foi desenvolvido com o objetivo de gerar um ebook digital com as fa
 Bate-papoGPT：
 
 Ação	inicial
+
 Título: crie um título para um e-book com assunto prompt engenharia, do nicho bancário, com tema ninja, o título deve listar 5 opções de títulos
 
 Conteúdo:	faça um texto para ebook, com foco em Prompt Engineering, falando as principais características e trazendo exemplos de prompts inteligentes para uso pessoal, para estudo e para trabalho.
+
+
+Na jornada:
 
 Incrementação do Conteúdo: fale como o prompt engenharia inteligente pode auxiliar no setor bancário
 
@@ -38,9 +42,11 @@ Edição do Conteúdo: Retire a seção No Setor Bancário e, crie um capítulo 
 
 Edição do Conteúdo: inverta o capítulo 3 e o 4 e faça uma conclusão completa, abrangendo também como o uso de prompt engenharia inteligente pode auxiliar no setor bancário
 
+
 Canva Dream Lab:
 
 Ação	inicial
+
 Imagem:	um ninja soltando códigos das mãos
 
 
