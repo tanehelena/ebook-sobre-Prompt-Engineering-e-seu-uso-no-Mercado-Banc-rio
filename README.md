@@ -27,7 +27,7 @@ Este Projeto foi desenvolvido com o objetivo de gerar um ebook digital com as fa
 
  - Bate-papoGPT：
 
-  - Ação	inicial:
+   - Ação	inicial:
 
    Título: crie um título para um e-book com assunto prompt engenharia, do nicho bancário, com tema ninja, o título deve listar 5 opções de títulos
 
@@ -35,7 +35,7 @@ Este Projeto foi desenvolvido com o objetivo de gerar um ebook digital com as fa
 
 
 
-  - Na jornada:
+ - Na jornada:
 
    Incrementação do Conteúdo: fale como o prompt engenharia inteligente pode auxiliar no setor bancário
 
@@ -46,7 +46,7 @@ Este Projeto foi desenvolvido com o objetivo de gerar um ebook digital com as fa
 
  - Canva Dream Lab:
 
-   - Ação	inicial:
+  - Ação	inicial:
 
    Imagem:	um ninja soltando códigos das mãos
 
