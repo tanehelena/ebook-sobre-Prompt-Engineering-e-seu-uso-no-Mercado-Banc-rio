@@ -35,7 +35,7 @@ Este Projeto foi desenvolvido com o objetivo de gerar um ebook digital com as fa
 
 
 
- - Na jornada:
+  - Na jornada:
 
    Incrementação do Conteúdo: fale como o prompt engenharia inteligente pode auxiliar no setor bancário
 
@@ -46,7 +46,7 @@ Este Projeto foi desenvolvido com o objetivo de gerar um ebook digital com as fa
 
  - Canva Dream Lab:
 
-  - Ação	inicial:
+   - Ação	inicial:
 
    Imagem:	um ninja soltando códigos das mãos
 
