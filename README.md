@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/125e95c2-9c3b-474c-b53c-bf2fd8b3bc58)
+
 e-book "Prompt Engineering: Arte Ninja no Mercado Bancário"
 ℹ️ NOTA: Este repositório desenvolvido para bootcamp da plataforma da DIO
 
