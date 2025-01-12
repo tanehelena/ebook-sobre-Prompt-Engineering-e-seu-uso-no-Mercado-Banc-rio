@@ -2,7 +2,7 @@
 
 e-book "Prompt Engineering: Arte Ninja no Mercado Bancário"
 
-ℹ️ NOTA: Este repositório desenvolvido para bootcamp da plataforma da DIO
+ℹ️ NOTA: Repositório criado para bootcamp da plataforma da DIO
 
 Este Projeto foi desenvolvido com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA.
 
