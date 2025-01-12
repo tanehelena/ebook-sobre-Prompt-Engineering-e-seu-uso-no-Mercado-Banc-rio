@@ -22,3 +22,6 @@ Este Projeto foi desenvolvido com o objetivo de gerar um ebook digital com as fa
  - Google imagens: obtenção de imagem usada ao longo do ebook
 
  - Power Point: diagramação
+
+
+😊Boa Leitura!
